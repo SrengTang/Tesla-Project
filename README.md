@@ -1,5 +1,8 @@
 # Tesla Electric Vehicle Analysis – Washington State  
 
+![image alt](https://github.com/SrengTang/Tesla-Project/blob/23a9171d0139bfa853ba6a12fa7ed2c8db95a96c/NewModelY_49.jpg)
+
+
 ## 🚀 What’s This Project About?  
 This is a fun personal project where I dug into Washington State’s electric vehicle (EV) data — but with a twist: I only focused on **Teslas**. I’ve been a Tesla fan for as long as I can remember (it’s my dream car!), so I thought, why not combine that with my love for data?  
 
